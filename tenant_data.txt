@@ -1,0 +1,5 @@
+T01,Josh,021223140394,01112415634,Klang,Kuala Lumpur,Waiter,Chef,
+T02,Ivan,021223156032,0193815775,Petaling Jaya,Kuala Lumpur,Bartender,Barista,
+T03,Aiden,021223140493,01110822898,Klang,Kuala Lumpur,sales,teacher,
+T04,Aaron,021302029176,01109272654,Klang,Kuala Lumpur,Chef,Teacher,
+T05,Marcus,081225347109,0192815443,Puchong,Kuala Lumpur,None,Student,
